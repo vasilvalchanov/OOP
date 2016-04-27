@@ -1,0 +1,6 @@
+G:\OOP Homeworks\ExceptionHandlingHomework\Problem2EnterNumbers\bin\Debug\Problem2EnterNumbers.exe.config
+G:\OOP Homeworks\ExceptionHandlingHomework\Problem2EnterNumbers\bin\Debug\Problem2EnterNumbers.exe
+G:\OOP Homeworks\ExceptionHandlingHomework\Problem2EnterNumbers\bin\Debug\Problem2EnterNumbers.pdb
+G:\OOP Homeworks\ExceptionHandlingHomework\Problem2EnterNumbers\obj\Debug\Problem2EnterNumbers.csprojResolveAssemblyReference.cache
+G:\OOP Homeworks\ExceptionHandlingHomework\Problem2EnterNumbers\obj\Debug\Problem2EnterNumbers.exe
+G:\OOP Homeworks\ExceptionHandlingHomework\Problem2EnterNumbers\obj\Debug\Problem2EnterNumbers.pdb

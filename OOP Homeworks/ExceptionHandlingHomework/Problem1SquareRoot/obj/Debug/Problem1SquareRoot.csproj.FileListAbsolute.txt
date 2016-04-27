@@ -1,0 +1,6 @@
+G:\OOP Homeworks\ExceptionHandlingHomework\Problem1SquareRoot\bin\Debug\Problem1SquareRoot.exe.config
+G:\OOP Homeworks\ExceptionHandlingHomework\Problem1SquareRoot\bin\Debug\Problem1SquareRoot.exe
+G:\OOP Homeworks\ExceptionHandlingHomework\Problem1SquareRoot\bin\Debug\Problem1SquareRoot.pdb
+G:\OOP Homeworks\ExceptionHandlingHomework\Problem1SquareRoot\obj\Debug\Problem1SquareRoot.csprojResolveAssemblyReference.cache
+G:\OOP Homeworks\ExceptionHandlingHomework\Problem1SquareRoot\obj\Debug\Problem1SquareRoot.exe
+G:\OOP Homeworks\ExceptionHandlingHomework\Problem1SquareRoot\obj\Debug\Problem1SquareRoot.pdb
