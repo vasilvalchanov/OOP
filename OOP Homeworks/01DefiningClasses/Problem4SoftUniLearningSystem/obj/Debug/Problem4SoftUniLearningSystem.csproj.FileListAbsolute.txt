@@ -1,0 +1,6 @@
+G:\OOP Homeworks\01DefiningClasses\Problem4SoftUniLearningSystem\bin\Debug\Problem4SoftUniLearningSystem.exe.config
+G:\OOP Homeworks\01DefiningClasses\Problem4SoftUniLearningSystem\bin\Debug\Problem4SoftUniLearningSystem.exe
+G:\OOP Homeworks\01DefiningClasses\Problem4SoftUniLearningSystem\bin\Debug\Problem4SoftUniLearningSystem.pdb
+G:\OOP Homeworks\01DefiningClasses\Problem4SoftUniLearningSystem\obj\Debug\Problem4SoftUniLearningSystem.csprojResolveAssemblyReference.cache
+G:\OOP Homeworks\01DefiningClasses\Problem4SoftUniLearningSystem\obj\Debug\Problem4SoftUniLearningSystem.exe
+G:\OOP Homeworks\01DefiningClasses\Problem4SoftUniLearningSystem\obj\Debug\Problem4SoftUniLearningSystem.pdb

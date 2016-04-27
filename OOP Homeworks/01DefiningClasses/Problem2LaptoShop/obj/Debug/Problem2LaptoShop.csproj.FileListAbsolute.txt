@@ -1,0 +1,6 @@
+G:\OOP Homeworks\01DefiningClasses\Problem2LaptoShop\bin\Debug\Problem2LaptoShop.exe.config
+G:\OOP Homeworks\01DefiningClasses\Problem2LaptoShop\bin\Debug\Problem2LaptoShop.exe
+G:\OOP Homeworks\01DefiningClasses\Problem2LaptoShop\bin\Debug\Problem2LaptoShop.pdb
+G:\OOP Homeworks\01DefiningClasses\Problem2LaptoShop\obj\Debug\Problem2LaptoShop.csprojResolveAssemblyReference.cache
+G:\OOP Homeworks\01DefiningClasses\Problem2LaptoShop\obj\Debug\Problem2LaptoShop.exe
+G:\OOP Homeworks\01DefiningClasses\Problem2LaptoShop\obj\Debug\Problem2LaptoShop.pdb

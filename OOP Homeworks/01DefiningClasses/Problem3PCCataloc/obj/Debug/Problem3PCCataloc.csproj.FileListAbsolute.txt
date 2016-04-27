@@ -1,0 +1,6 @@
+G:\OOP Homeworks\01DefiningClasses\Problem3PCCataloc\bin\Debug\Problem3PCCataloc.exe.config
+G:\OOP Homeworks\01DefiningClasses\Problem3PCCataloc\bin\Debug\Problem3PCCataloc.exe
+G:\OOP Homeworks\01DefiningClasses\Problem3PCCataloc\bin\Debug\Problem3PCCataloc.pdb
+G:\OOP Homeworks\01DefiningClasses\Problem3PCCataloc\obj\Debug\Problem3PCCataloc.csprojResolveAssemblyReference.cache
+G:\OOP Homeworks\01DefiningClasses\Problem3PCCataloc\obj\Debug\Problem3PCCataloc.exe
+G:\OOP Homeworks\01DefiningClasses\Problem3PCCataloc\obj\Debug\Problem3PCCataloc.pdb

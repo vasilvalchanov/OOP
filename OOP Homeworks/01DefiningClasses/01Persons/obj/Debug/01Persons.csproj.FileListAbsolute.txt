@@ -1,0 +1,6 @@
+G:\OOP Homeworks\01DefiningClasses\01Persons\bin\Debug\01Persons.exe.config
+G:\OOP Homeworks\01DefiningClasses\01Persons\bin\Debug\01Persons.exe
+G:\OOP Homeworks\01DefiningClasses\01Persons\bin\Debug\01Persons.pdb
+G:\OOP Homeworks\01DefiningClasses\01Persons\obj\Debug\01Persons.csprojResolveAssemblyReference.cache
+G:\OOP Homeworks\01DefiningClasses\01Persons\obj\Debug\01Persons.exe
+G:\OOP Homeworks\01DefiningClasses\01Persons\obj\Debug\01Persons.pdb
