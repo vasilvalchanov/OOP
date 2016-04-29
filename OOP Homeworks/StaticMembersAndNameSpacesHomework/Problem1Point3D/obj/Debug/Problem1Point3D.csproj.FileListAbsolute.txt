@@ -1,0 +1,5 @@
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem1Point3D\bin\Debug\Problem1Point3D.exe.config
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem1Point3D\bin\Debug\Problem1Point3D.exe
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem1Point3D\bin\Debug\Problem1Point3D.pdb
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem1Point3D\obj\Debug\Problem1Point3D.exe
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem1Point3D\obj\Debug\Problem1Point3D.pdb

@@ -1,0 +1,10 @@
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem3Paths\bin\Debug\Problem3Paths.exe.config
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem3Paths\bin\Debug\Problem3Paths.exe
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem3Paths\bin\Debug\Problem3Paths.pdb
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem3Paths\bin\Debug\Problem1Point3D.exe
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem3Paths\bin\Debug\Problem2DistanceCalculator.exe
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem3Paths\bin\Debug\Problem1Point3D.pdb
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem3Paths\bin\Debug\Problem2DistanceCalculator.pdb
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem3Paths\obj\Debug\Problem3Paths.csprojResolveAssemblyReference.cache
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem3Paths\obj\Debug\Problem3Paths.exe
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem3Paths\obj\Debug\Problem3Paths.pdb

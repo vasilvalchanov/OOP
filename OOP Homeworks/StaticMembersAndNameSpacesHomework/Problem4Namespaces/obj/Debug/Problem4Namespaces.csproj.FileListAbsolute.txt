@@ -1,0 +1,1 @@
+G:\OOP Homeworks\StaticMembersAndNameSpacesHomework\Problem4Namespaces\bin\Debug\Problem4Namespaces.exe.config

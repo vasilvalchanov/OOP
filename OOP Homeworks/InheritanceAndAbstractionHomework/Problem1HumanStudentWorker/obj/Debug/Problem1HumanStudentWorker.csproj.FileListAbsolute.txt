@@ -1,0 +1,6 @@
+G:\OOP Homeworks\InheritanceAndAbstractionHomework\Problem1HumanStudentWorker\bin\Debug\Problem1HumanStudentWorker.exe.config
+G:\OOP Homeworks\InheritanceAndAbstractionHomework\Problem1HumanStudentWorker\bin\Debug\Problem1HumanStudentWorker.exe
+G:\OOP Homeworks\InheritanceAndAbstractionHomework\Problem1HumanStudentWorker\bin\Debug\Problem1HumanStudentWorker.pdb
+G:\OOP Homeworks\InheritanceAndAbstractionHomework\Problem1HumanStudentWorker\obj\Debug\Problem1HumanStudentWorker.csprojResolveAssemblyReference.cache
+G:\OOP Homeworks\InheritanceAndAbstractionHomework\Problem1HumanStudentWorker\obj\Debug\Problem1HumanStudentWorker.exe
+G:\OOP Homeworks\InheritanceAndAbstractionHomework\Problem1HumanStudentWorker\obj\Debug\Problem1HumanStudentWorker.pdb
