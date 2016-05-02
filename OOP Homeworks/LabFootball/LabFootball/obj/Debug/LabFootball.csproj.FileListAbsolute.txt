@@ -1,0 +1,6 @@
+G:\OOP Homeworks\LabFootball\LabFootball\bin\Debug\LabFootball.exe.config
+G:\OOP Homeworks\LabFootball\LabFootball\bin\Debug\LabFootball.exe
+G:\OOP Homeworks\LabFootball\LabFootball\bin\Debug\LabFootball.pdb
+G:\OOP Homeworks\LabFootball\LabFootball\obj\Debug\LabFootball.csprojResolveAssemblyReference.cache
+G:\OOP Homeworks\LabFootball\LabFootball\obj\Debug\LabFootball.exe
+G:\OOP Homeworks\LabFootball\LabFootball\obj\Debug\LabFootball.pdb
