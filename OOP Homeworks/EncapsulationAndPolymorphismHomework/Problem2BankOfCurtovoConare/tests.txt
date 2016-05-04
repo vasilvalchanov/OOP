@@ -1,0 +1,30 @@
+Create deposit Individuals 1500 4.2
+Create deposit Companies 5750 4.6
+Create loan Individuals 2320 3.5
+Create mortgage Companies 1750 2.2
+Create mortgage Individuals 1000 4.9
+Create loan Companies 7600 3.3
+Status
+Withdraw 1000 1
+Withdraw 6000 2
+Withdraw 1000 3
+Withdraw 500 4
+Withdraw 500 10
+Status
+Deposit 1050 1
+Deposit 2500 2
+Deposit 1900 3
+Deposit 200 4
+Deposit 2000 10
+Status
+Calculate 3 1
+Calculate 10 1
+Calculate 3 2
+Calculate 12 2
+Calculate 10 3
+Calculate 5 3
+Calculate 4 5
+Calculate 13 5
+Calculate 6 6
+Calculate 18 6
+End
