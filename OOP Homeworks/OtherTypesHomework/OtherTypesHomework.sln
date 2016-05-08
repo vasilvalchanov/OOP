@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1GalacticGPS", "Problem1GalacticGPS\Problem1GalacticGPS.csproj", "{049C0796-B42E-4B1B-A8ED-CF0C143355FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2FractionCalculator", "Problem2FractionCalculator\Problem2FractionCalculator.csproj", "{8BA0356F-33D7-42D3-B3BA-C2FC52749A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3GenericList", "Problem3GenericList\Problem3GenericList.csproj", "{995B613B-8E22-4A62-A87D-7C9CFD1BBD90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4VersionAtribute", "Problem4VersionAtribute\Problem4VersionAtribute.csproj", "{EB9A72D9-44C2-4767-8425-C291928DC043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{049C0796-B42E-4B1B-A8ED-CF0C143355FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049C0796-B42E-4B1B-A8ED-CF0C143355FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049C0796-B42E-4B1B-A8ED-CF0C143355FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049C0796-B42E-4B1B-A8ED-CF0C143355FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA0356F-33D7-42D3-B3BA-C2FC52749A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA0356F-33D7-42D3-B3BA-C2FC52749A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA0356F-33D7-42D3-B3BA-C2FC52749A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA0356F-33D7-42D3-B3BA-C2FC52749A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995B613B-8E22-4A62-A87D-7C9CFD1BBD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995B613B-8E22-4A62-A87D-7C9CFD1BBD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995B613B-8E22-4A62-A87D-7C9CFD1BBD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995B613B-8E22-4A62-A87D-7C9CFD1BBD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9A72D9-44C2-4767-8425-C291928DC043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9A72D9-44C2-4767-8425-C291928DC043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9A72D9-44C2-4767-8425-C291928DC043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9A72D9-44C2-4767-8425-C291928DC043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

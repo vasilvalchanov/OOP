@@ -1,0 +1,6 @@
+G:\OOP Homeworks\OtherTypesHomework\Problem4VersionAtribute\bin\Debug\Problem4VersionAtribute.exe.config
+G:\OOP Homeworks\OtherTypesHomework\Problem4VersionAtribute\bin\Debug\Problem4VersionAtribute.exe
+G:\OOP Homeworks\OtherTypesHomework\Problem4VersionAtribute\bin\Debug\Problem4VersionAtribute.pdb
+G:\OOP Homeworks\OtherTypesHomework\Problem4VersionAtribute\obj\Debug\Problem4VersionAtribute.csprojResolveAssemblyReference.cache
+G:\OOP Homeworks\OtherTypesHomework\Problem4VersionAtribute\obj\Debug\Problem4VersionAtribute.exe
+G:\OOP Homeworks\OtherTypesHomework\Problem4VersionAtribute\obj\Debug\Problem4VersionAtribute.pdb

@@ -1,0 +1,5 @@
+G:\OOP Homeworks\EncapsulationAndPolymorphismHomework\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+G:\OOP Homeworks\EncapsulationAndPolymorphismHomework\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+G:\OOP Homeworks\EncapsulationAndPolymorphismHomework\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+G:\OOP Homeworks\EncapsulationAndPolymorphismHomework\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+G:\OOP Homeworks\EncapsulationAndPolymorphismHomework\TheSlum-Skeleton\obj\Debug\TheSlum.pdb

@@ -1,0 +1,5 @@
+G:\OOP Homeworks\Lab - Mass Effect\MassEffect\bin\Debug\MassEffect.exe.config
+G:\OOP Homeworks\Lab - Mass Effect\MassEffect\bin\Debug\MassEffect.exe
+G:\OOP Homeworks\Lab - Mass Effect\MassEffect\bin\Debug\MassEffect.pdb
+G:\OOP Homeworks\Lab - Mass Effect\MassEffect\obj\Debug\MassEffect.exe
+G:\OOP Homeworks\Lab - Mass Effect\MassEffect\obj\Debug\MassEffect.pdb

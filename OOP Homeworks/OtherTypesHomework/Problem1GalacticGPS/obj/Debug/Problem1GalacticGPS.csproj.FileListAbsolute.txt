@@ -1,0 +1,6 @@
+G:\OOP Homeworks\OtherTypesHomework\Problem1GalacticGPS\bin\Debug\Problem1GalacticGPS.exe.config
+G:\OOP Homeworks\OtherTypesHomework\Problem1GalacticGPS\bin\Debug\Problem1GalacticGPS.exe
+G:\OOP Homeworks\OtherTypesHomework\Problem1GalacticGPS\bin\Debug\Problem1GalacticGPS.pdb
+G:\OOP Homeworks\OtherTypesHomework\Problem1GalacticGPS\obj\Debug\Problem1GalacticGPS.csprojResolveAssemblyReference.cache
+G:\OOP Homeworks\OtherTypesHomework\Problem1GalacticGPS\obj\Debug\Problem1GalacticGPS.exe
+G:\OOP Homeworks\OtherTypesHomework\Problem1GalacticGPS\obj\Debug\Problem1GalacticGPS.pdb

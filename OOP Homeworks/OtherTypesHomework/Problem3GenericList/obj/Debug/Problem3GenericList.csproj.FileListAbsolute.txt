@@ -1,0 +1,8 @@
+G:\OOP Homeworks\OtherTypesHomework\Problem3GenericList\bin\Debug\Problem3GenericList.exe.config
+G:\OOP Homeworks\OtherTypesHomework\Problem3GenericList\bin\Debug\Problem3GenericList.exe
+G:\OOP Homeworks\OtherTypesHomework\Problem3GenericList\bin\Debug\Problem3GenericList.pdb
+G:\OOP Homeworks\OtherTypesHomework\Problem3GenericList\obj\Debug\Problem3GenericList.csprojResolveAssemblyReference.cache
+G:\OOP Homeworks\OtherTypesHomework\Problem3GenericList\obj\Debug\Problem3GenericList.exe
+G:\OOP Homeworks\OtherTypesHomework\Problem3GenericList\obj\Debug\Problem3GenericList.pdb
+G:\OOP Homeworks\OtherTypesHomework\Problem3GenericList\bin\Debug\Problem4VersionAtribute.exe
+G:\OOP Homeworks\OtherTypesHomework\Problem3GenericList\bin\Debug\Problem4VersionAtribute.pdb

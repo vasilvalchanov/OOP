@@ -1,0 +1,6 @@
+G:\OOP Homeworks\OtherTypesHomework\Problem2FractionCalculator\bin\Debug\Problem2FractionCalculator.exe.config
+G:\OOP Homeworks\OtherTypesHomework\Problem2FractionCalculator\bin\Debug\Problem2FractionCalculator.exe
+G:\OOP Homeworks\OtherTypesHomework\Problem2FractionCalculator\bin\Debug\Problem2FractionCalculator.pdb
+G:\OOP Homeworks\OtherTypesHomework\Problem2FractionCalculator\obj\Debug\Problem2FractionCalculator.csprojResolveAssemblyReference.cache
+G:\OOP Homeworks\OtherTypesHomework\Problem2FractionCalculator\obj\Debug\Problem2FractionCalculator.exe
+G:\OOP Homeworks\OtherTypesHomework\Problem2FractionCalculator\obj\Debug\Problem2FractionCalculator.pdb
