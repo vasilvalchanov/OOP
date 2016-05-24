@@ -1,0 +1,6 @@
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\FactoryMethod\obj\Debug\2. TankFactory.csprojResolveAssemblyReference.cache

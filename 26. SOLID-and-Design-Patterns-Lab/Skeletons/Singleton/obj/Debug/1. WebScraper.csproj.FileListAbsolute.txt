@@ -1,0 +1,6 @@
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Singleton\bin\Debug\Singleton.exe
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Singleton\bin\Debug\Singleton.pdb
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Singleton\obj\Debug\1. WebScraper.csprojResolveAssemblyReference.cache
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Singleton\obj\Debug\Singleton.exe
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Singleton\obj\Debug\Singleton.pdb

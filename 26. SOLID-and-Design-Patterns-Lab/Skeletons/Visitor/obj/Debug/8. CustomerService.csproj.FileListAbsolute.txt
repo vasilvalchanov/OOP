@@ -1,0 +1,5 @@
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Visitor\bin\Debug\Visitor.exe
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Visitor\bin\Debug\Visitor.pdb
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Visitor\obj\Debug\Visitor.exe
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Visitor\obj\Debug\Visitor.pdb

@@ -1,0 +1,6 @@
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Decorator\bin\Debug\_9.Decorator.exe.config
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Decorator\bin\Debug\_9.Decorator.exe
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Decorator\bin\Debug\_9.Decorator.pdb
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Decorator\obj\Debug\9. Decorator.csprojResolveAssemblyReference.cache
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Decorator\obj\Debug\_9.Decorator.exe
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Decorator\obj\Debug\_9.Decorator.pdb

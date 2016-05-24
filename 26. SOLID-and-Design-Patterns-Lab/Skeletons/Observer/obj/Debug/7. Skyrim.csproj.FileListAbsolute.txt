@@ -1,0 +1,5 @@
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Observer\bin\Debug\Observer.exe.config
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Observer\bin\Debug\Observer.exe
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Observer\bin\Debug\Observer.pdb
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Observer\obj\Debug\Observer.exe
+C:\Users\vaseto_v\Desktop\26. SOLID-and-Design-Patterns-Lab\Skeletons\Observer\obj\Debug\Observer.pdb
